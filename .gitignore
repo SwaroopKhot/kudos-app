@@ -1,0 +1,17 @@
+# Python
+/backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+*__pycache__/
+*__pycache__/*
+backend/venv
+
+# Node
+kudos_frontend/node_modules/
+kudos_frontend/.env
+kudos_frontend/dist/
+kudos_frontend/build/
+
+# Others
+*.env
+.DS_Store

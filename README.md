@@ -77,6 +77,33 @@ Done, once the setup if completed you can see the frontend at: http://127.0.0.1:
 
 
 
+### ScreenShots of Kudos-App:
+
+Here are some screenshot of the kudos app
+#### Home Page:
+The Homepage of Kudos-app
+<p><img src="screenshots/kudos_home.png" alt="Homepage" width="60%" /></p>
+
+#### Login Page:
+Simple login interface where users can sign in using their registered email and password.
+<p><img src="screenshots/kudos_login.png" alt="LoginPage" width="60%"/></p>
+
+#### Create Kudos:
+Users can send kudos to colleagues in their organization with a short message of appreciation
+<p><img src="screenshots/kudos_modal.png" alt="CreatKudos" width="60%"/></p>
+
+#### View Sent Kudos:
+Displays a list of all kudos you've sent during the selected week.
+<p><img src="screenshots/kudos_sent.png" alt="Sent Kudos" width="60%"/></p>
+
+#### View Kudos Received:
+Displays a list of all kudos you've received during the selected week.
+<p><img src="screenshots/kudos_received.png" alt="Received Kudos" width="60%"/></p>
+
+
+
+
+
 
 
 

@@ -15,7 +15,7 @@ tables = cursor.fetchall()
 #     print(table[0])
     
     
-query = """select * from kudos_app_kudos"""
+query = """select * from kudos_app_user"""
 res = cursor.execute(query).fetchall()
 
 for i in res:

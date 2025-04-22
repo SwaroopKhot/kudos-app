@@ -70,6 +70,7 @@ MIDDLEWARE = [
 # ]
 
 CORS_ALLOW_CREDENTIALS = True
+CORS_ALLOW_ALL_ORIGINS = True
 
 ROOT_URLCONF = 'kudos_project.urls'
 
